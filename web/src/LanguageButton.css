@@ -1,0 +1,16 @@
+.LanguageButton {
+  display: inline-block;
+  padding: 6px;
+  background-color: #f1f8ff;
+  border-radius: 3px;
+  color: #0366d6;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin: 0 0.5em 0.5em 0;
+  border: none;
+  cursor: pointer;
+}
+
+.selected {
+  border: 1px solid #888;
+}
