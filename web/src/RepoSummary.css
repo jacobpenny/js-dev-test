@@ -1,0 +1,28 @@
+.RepoSummary {
+  width: 360px;
+  padding: 16px;
+  border: 1px #e1e4e8 solid;
+  border-radius: 3px;
+  margin-bottom: 16px;
+  font-family: sans-serif;
+}
+
+.name {
+  color: #0366d6;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.smallText {
+  color: #586069;
+  font-size: 13px;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.left {
+  margin-right:auto;
+}
